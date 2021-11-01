@@ -1,6 +1,6 @@
-![Banner](images/banner.jpg)
-
 # limesurvey_utilities
+
+![Banner](images/banner.svgg)
 
 > Set of small PHP scripts to start a project with LimeSurvey such as, for example, accessing the LimeSurvey database and displaying the list of tables, using the LimeSurvey API,...
 
